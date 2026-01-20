@@ -53,7 +53,7 @@ My education has provided me with a strong foundation in programming, algorithms
 
 Feel free to connect or reach out:
 
-[![Twitter](https://img.shields.io/badge/-Twitter%20(X)-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jayshmoney)
+[![Twitter](https://img.shields.io/badge/-Twitter%20(X)-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jayjezey)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayholla06@gmail.com)
 
 
